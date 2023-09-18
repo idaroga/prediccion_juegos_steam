@@ -1,0 +1,106 @@
+genre,ranking,user_id,user_url,playtime_mins,playtime_hours,playtime_days,playtime_weeks,playtime_months,playtime_years,look_genre
+Action,1,Sp3ctre,http://steamcommunity.com/id/Sp3ctre,1699307,28321.78,1180.07,168.58,39.34,3.28,action
+Action,2,shinomegami,http://steamcommunity.com/id/shinomegami,1580428,26340.47,1097.52,156.79,36.58,3.05,action
+Action,3,REBAS_AS_F-T,http://steamcommunity.com/id/REBAS_AS_F-T,1456212,24270.2,1011.26,144.47,33.71,2.81,action
+Action,4,Terminally-Chill,http://steamcommunity.com/id/Terminally-Chill,1065742,17762.37,740.1,105.73,24.67,2.06,action
+Action,5,DownSyndromeKid,http://steamcommunity.com/id/DownSyndromeKid,1061193,17686.55,736.94,105.28,24.56,2.05,action
+Video Production,1,ScottyG555,http://steamcommunity.com/id/ScottyG555,168314,2805.23,116.88,16.7,3.9,0.32,videoproduction
+Video Production,2,Lickidactyl,http://steamcommunity.com/id/Lickidactyl,109916,1831.93,76.33,10.9,2.54,0.21,videoproduction
+Video Production,3,amarethepegasus,http://steamcommunity.com/id/amarethepegasus,77322,1288.7,53.7,7.67,1.79,0.15,videoproduction
+Video Production,4,XeroChances,http://steamcommunity.com/id/XeroChances,74389,1239.82,51.66,7.38,1.72,0.14,videoproduction
+Video Production,5,AussieAidan,http://steamcommunity.com/id/AussieAidan,68163,1136.05,47.34,6.76,1.58,0.13,videoproduction
+Software Training,1,Lickidactyl,http://steamcommunity.com/id/Lickidactyl,109916,1831.93,76.33,10.9,2.54,0.21,softwaretraining
+Software Training,2,kong6456,http://steamcommunity.com/id/kong6456,65019,1083.65,45.15,6.45,1.5,0.12,softwaretraining
+Software Training,3,HappyRussian,http://steamcommunity.com/id/HappyRussian,16662,277.7,11.57,1.65,0.39,0.03,softwaretraining
+Software Training,4,76561198096741403,http://steamcommunity.com/profiles/76561198096741403,12857,214.28,8.93,1.28,0.3,0.02,softwaretraining
+Software Training,5,76561198078933557,http://steamcommunity.com/profiles/76561198078933557,12228,203.8,8.49,1.21,0.28,0.02,softwaretraining
+Education,1,76561198059330972,http://steamcommunity.com/profiles/76561198059330972,65427,1090.45,45.44,6.49,1.51,0.13,education
+Education,2,76561198089082829,http://steamcommunity.com/profiles/76561198089082829,42357,705.95,29.41,4.2,0.98,0.08,education
+Education,3,Forbieden,http://steamcommunity.com/id/Forbieden,26035,433.92,18.08,2.58,0.6,0.05,education
+Education,4,76561198012909706,http://steamcommunity.com/profiles/76561198012909706,18779,312.98,13.04,1.86,0.43,0.04,education
+Education,5,SeedyDog,http://steamcommunity.com/id/SeedyDog,10276,171.27,7.14,1.02,0.24,0.02,education
+Adventure,1,REBAS_AS_F-T,http://steamcommunity.com/id/REBAS_AS_F-T,2191551,36525.85,1521.91,217.42,50.73,4.23,adventure
+Adventure,2,shinomegami,http://steamcommunity.com/id/shinomegami,767160,12786.0,532.75,76.11,17.76,1.48,adventure
+Adventure,3,Evilutional,http://steamcommunity.com/id/Evilutional,662103,11035.05,459.79,65.68,15.33,1.28,adventure
+Adventure,4,Sp3ctre,http://steamcommunity.com/id/Sp3ctre,654378,10906.3,454.43,64.92,15.15,1.26,adventure
+Adventure,5,tobscene,http://steamcommunity.com/id/tobscene,640783,10679.72,444.99,63.57,14.83,1.24,adventure
+Design &amp; Illustration,1,ScottyG555,http://steamcommunity.com/id/ScottyG555,168314,2805.23,116.88,16.7,3.9,0.32,design&amp;illustration
+Design &amp; Illustration,2,Xyphien,http://steamcommunity.com/id/Xyphien,135765,2262.75,94.28,13.47,3.14,0.26,design&amp;illustration
+Design &amp; Illustration,3,76561198035718256,http://steamcommunity.com/profiles/76561198035718256,115102,1918.37,79.93,11.42,2.66,0.22,design&amp;illustration
+Design &amp; Illustration,4,pretentiouswutangratz,http://steamcommunity.com/id/pretentiouswutangratz,105617,1760.28,73.34,10.48,2.44,0.2,design&amp;illustration
+Design &amp; Illustration,5,3197,http://steamcommunity.com/id/3197,79237,1320.62,55.03,7.86,1.83,0.15,design&amp;illustration
+Photo Editing,1,Sky_Wolf,http://steamcommunity.com/id/Sky_Wolf,21885,364.75,15.2,2.17,0.51,0.04,photoediting
+Photo Editing,2,Colidos,http://steamcommunity.com/id/Colidos,7521,125.35,5.22,0.75,0.17,0.01,photoediting
+Photo Editing,3,76561198050235011,http://steamcommunity.com/profiles/76561198050235011,5450,90.83,3.78,0.54,0.13,0.01,photoediting
+Photo Editing,4,kuroneko-blackcat,http://steamcommunity.com/id/kuroneko-blackcat,5299,88.32,3.68,0.53,0.12,0.01,photoediting
+Photo Editing,5,ROTJblackjesus,http://steamcommunity.com/id/ROTJblackjesus,4782,79.7,3.32,0.47,0.11,0.01,photoediting
+Web Publishing,1,Xyphien,http://steamcommunity.com/id/Xyphien,142964,2382.73,99.28,14.18,3.31,0.28,webpublishing
+Web Publishing,2,76561198035718256,http://steamcommunity.com/profiles/76561198035718256,115083,1918.05,79.92,11.42,2.66,0.22,webpublishing
+Web Publishing,3,pretentiouswutangratz,http://steamcommunity.com/id/pretentiouswutangratz,105617,1760.28,73.34,10.48,2.44,0.2,webpublishing
+Web Publishing,4,3197,http://steamcommunity.com/id/3197,79237,1320.62,55.03,7.86,1.83,0.15,webpublishing
+Web Publishing,5,minakazu,http://steamcommunity.com/id/minakazu,75240,1254.0,52.25,7.46,1.74,0.14,webpublishing
+Free to Play,1,idonothack,http://steamcommunity.com/id/idonothack,808241,13470.68,561.28,80.18,18.71,1.56,freetoplay
+Free to Play,2,shinomegami,http://steamcommunity.com/id/shinomegami,788553,13142.55,547.61,78.23,18.25,1.52,freetoplay
+Free to Play,3,Evilutional,http://steamcommunity.com/id/Evilutional,757973,12632.88,526.37,75.2,17.55,1.46,freetoplay
+Free to Play,4,tobscene,http://steamcommunity.com/id/tobscene,498268,8304.47,346.02,49.43,11.53,0.96,freetoplay
+Free to Play,5,jwatt1991,http://steamcommunity.com/id/jwatt1991,469357,7822.62,325.94,46.56,10.86,0.9,freetoplay
+Sports,1,76561197995725436,http://steamcommunity.com/profiles/76561197995725436,193206,3220.1,134.17,19.17,4.47,0.37,sports
+Sports,2,76561198065902279,http://steamcommunity.com/profiles/76561198065902279,126572,2109.53,87.9,12.56,2.93,0.24,sports
+Sports,3,express157,http://steamcommunity.com/id/express157,122179,2036.32,84.85,12.12,2.83,0.24,sports
+Sports,4,76561198045342815,http://steamcommunity.com/profiles/76561198045342815,119446,1990.77,82.95,11.85,2.76,0.23,sports
+Sports,5,1silentsniper1,http://steamcommunity.com/id/1silentsniper1,112163,1869.38,77.89,11.13,2.6,0.22,sports
+Casual,1,REBAS_AS_F-T,http://steamcommunity.com/id/REBAS_AS_F-T,1224933,20415.55,850.65,121.52,28.36,2.36,casual
+Casual,2,idonothack,http://steamcommunity.com/id/idonothack,781178,13019.63,542.48,77.5,18.08,1.51,casual
+Casual,3,shinomegami,http://steamcommunity.com/id/shinomegami,671493,11191.55,466.31,66.62,15.54,1.3,casual
+Casual,4,tsunamitad,http://steamcommunity.com/id/tsunamitad,665425,11090.42,462.1,66.01,15.4,1.28,casual
+Casual,5,76561198058230663,http://steamcommunity.com/profiles/76561198058230663,646121,10768.68,448.7,64.1,14.96,1.25,casual
+Racing,1,DownSyndromeKid,http://steamcommunity.com/id/DownSyndromeKid,743445,12390.75,516.28,73.75,17.21,1.43,racing
+Racing,2,76561197995725436,http://steamcommunity.com/profiles/76561197995725436,193206,3220.1,134.17,19.17,4.47,0.37,racing
+Racing,3,76561198045342815,http://steamcommunity.com/profiles/76561198045342815,136459,2274.32,94.76,13.54,3.16,0.26,racing
+Racing,4,stopgovtcorruption,http://steamcommunity.com/id/stopgovtcorruption,136395,2273.25,94.72,13.53,3.16,0.26,racing
+Racing,5,express157,http://steamcommunity.com/id/express157,122892,2048.2,85.34,12.19,2.84,0.24,racing
+RPG,1,shinomegami,http://steamcommunity.com/id/shinomegami,1060592,17676.53,736.52,105.22,24.55,2.05,rpg
+RPG,2,tobscene,http://steamcommunity.com/id/tobscene,906936,15115.6,629.82,89.97,20.99,1.75,rpg
+RPG,3,REBAS_AS_F-T,http://steamcommunity.com/id/REBAS_AS_F-T,886204,14770.07,615.42,87.92,20.51,1.71,rpg
+RPG,4,Evilutional,http://steamcommunity.com/id/Evilutional,680646,11344.1,472.67,67.52,15.76,1.31,rpg
+RPG,5,triggernyar,http://steamcommunity.com/id/triggernyar,608768,10146.13,422.76,60.39,14.09,1.17,rpg
+Strategy,1,shinomegami,http://steamcommunity.com/id/shinomegami,1141546,19025.77,792.74,113.25,26.42,2.2,strategy
+Strategy,2,rinco69,http://steamcommunity.com/id/rinco69,613757,10229.28,426.22,60.89,14.21,1.18,strategy
+Strategy,3,76561198063368177,http://steamcommunity.com/profiles/76561198063368177,613089,10218.15,425.76,60.82,14.19,1.18,strategy
+Strategy,4,76561198038513068,http://steamcommunity.com/profiles/76561198038513068,605443,10090.72,420.45,60.06,14.01,1.17,strategy
+Strategy,5,streetjimmy,http://steamcommunity.com/id/streetjimmy,559830,9330.5,388.77,55.54,12.96,1.08,strategy
+Massively Multiplayer,1,Evilutional,http://steamcommunity.com/id/Evilutional,688260,11471.0,477.96,68.28,15.93,1.33,massivelymultiplayer
+Massively Multiplayer,2,shinomegami,http://steamcommunity.com/id/shinomegami,638699,10644.98,443.54,63.36,14.78,1.23,massivelymultiplayer
+Massively Multiplayer,3,76561198041627248,http://steamcommunity.com/profiles/76561198041627248,457103,7618.38,317.43,45.35,10.58,0.88,massivelymultiplayer
+Massively Multiplayer,4,76561198050414588,http://steamcommunity.com/profiles/76561198050414588,454132,7568.87,315.37,45.05,10.51,0.88,massivelymultiplayer
+Massively Multiplayer,5,76561198063368177,http://steamcommunity.com/profiles/76561198063368177,444077,7401.28,308.39,44.06,10.28,0.86,massivelymultiplayer
+Audio Production,1,Lickidactyl,http://steamcommunity.com/id/Lickidactyl,109916,1831.93,76.33,10.9,2.54,0.21,audioproduction
+Audio Production,2,kong6456,http://steamcommunity.com/id/kong6456,65019,1083.65,45.15,6.45,1.5,0.12,audioproduction
+Audio Production,3,KJ72,http://steamcommunity.com/id/KJ72,19567,326.12,13.59,1.94,0.45,0.04,audioproduction
+Audio Production,4,fireballs69,http://steamcommunity.com/id/fireballs69,17110,285.17,11.88,1.7,0.4,0.03,audioproduction
+Audio Production,5,HappyRussian,http://steamcommunity.com/id/HappyRussian,16662,277.7,11.57,1.65,0.39,0.03,audioproduction
+Indie,1,REBAS_AS_F-T,http://steamcommunity.com/id/REBAS_AS_F-T,2402994,40049.9,1668.75,238.39,55.62,4.64,indie
+Indie,2,jimmynoe,http://steamcommunity.com/id/jimmynoe,1139510,18991.83,791.33,113.05,26.38,2.2,indie
+Indie,3,shinomegami,http://steamcommunity.com/id/shinomegami,1111013,18516.88,771.54,110.22,25.72,2.14,indie
+Indie,4,Steamified,http://steamcommunity.com/id/Steamified,998908,16648.47,693.69,99.1,23.12,1.93,indie
+Indie,5,idonothack,http://steamcommunity.com/id/idonothack,834678,13911.3,579.64,82.81,19.32,1.61,indie
+Early Access,1,76561197978756659,http://steamcommunity.com/profiles/76561197978756659,316969,5282.82,220.12,31.45,7.34,0.61,earlyaccess
+Early Access,2,mutatedwombat,http://steamcommunity.com/id/mutatedwombat,276628,4610.47,192.1,27.44,6.4,0.53,earlyaccess
+Early Access,3,guwopguccimane,http://steamcommunity.com/id/guwopguccimane,249369,4156.15,173.17,24.74,5.77,0.48,earlyaccess
+Early Access,4,76561198029584773,http://steamcommunity.com/profiles/76561198029584773,216042,3600.7,150.03,21.43,5.0,0.42,earlyaccess
+Early Access,5,Drxoid,http://steamcommunity.com/id/Drxoid,194166,3236.1,134.84,19.26,4.49,0.37,earlyaccess
+Utilities,1,76561198073642113,http://steamcommunity.com/profiles/76561198073642113,207651,3460.85,144.2,20.6,4.81,0.4,utilities
+Utilities,2,rexyman52,http://steamcommunity.com/id/rexyman52,145729,2428.82,101.2,14.46,3.37,0.28,utilities
+Utilities,3,76561198072177030,http://steamcommunity.com/profiles/76561198072177030,144853,2414.22,100.59,14.37,3.35,0.28,utilities
+Utilities,4,Lickidactyl,http://steamcommunity.com/id/Lickidactyl,109916,1831.93,76.33,10.9,2.54,0.21,utilities
+Utilities,5,76561198061456632,http://steamcommunity.com/profiles/76561198061456632,97034,1617.23,67.38,9.63,2.25,0.19,utilities
+Animation &amp; Modeling,1,ScottyG555,http://steamcommunity.com/id/ScottyG555,168314,2805.23,116.88,16.7,3.9,0.32,animation&amp;modeling
+Animation &amp; Modeling,2,XeroChances,http://steamcommunity.com/id/XeroChances,74389,1239.82,51.66,7.38,1.72,0.14,animation&amp;modeling
+Animation &amp; Modeling,3,EmperorFaiz,http://steamcommunity.com/id/EmperorFaiz,67896,1131.6,47.15,6.74,1.57,0.13,animation&amp;modeling
+Animation &amp; Modeling,4,76561198059330972,http://steamcommunity.com/profiles/76561198059330972,66104,1101.73,45.91,6.56,1.53,0.13,animation&amp;modeling
+Animation &amp; Modeling,5,Dracaerys,http://steamcommunity.com/id/Dracaerys,55829,930.48,38.77,5.54,1.29,0.11,animation&amp;modeling
+Simulation,1,jimmynoe,http://steamcommunity.com/id/jimmynoe,1062130,17702.17,737.59,105.37,24.59,2.05,simulation
+Simulation,2,Evilutional,http://steamcommunity.com/id/Evilutional,684723,11412.05,475.5,67.93,15.85,1.32,simulation
+Simulation,3,REBAS_AS_F-T,http://steamcommunity.com/id/REBAS_AS_F-T,676540,11275.67,469.82,67.12,15.66,1.3,simulation
+Simulation,4,tsunamitad,http://steamcommunity.com/id/tsunamitad,661309,11021.82,459.24,65.61,15.31,1.28,simulation
+Simulation,5,wolop,http://steamcommunity.com/id/wolop,642773,10712.88,446.37,63.77,14.88,1.24,simulation
